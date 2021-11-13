@@ -33,14 +33,14 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/archieshots)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴄʀᴇᴀᴛᴏʀ :  @archieshots__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/archieshots)**
 """
 
       MARKDOWN_TEXT = """
@@ -49,17 +49,17 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 🔸 <code>**Avishkar**</code>
 
 👉 <b>Italic text</b>
-🔹 <code>__Avishkat__</code> 
+🔹 <code>__Archie__</code> 
 
 👉 <b>Code text</b>
-🔸 <code>`Avishkar`</code>   
+🔸 <code>`Archie`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://davrashop.company.site)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/Avishkarpatil">© Archie Andrews</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/archieshots">© ᴀrchie Andrews</a></b>
 """
 
 
@@ -83,5 +83,5 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 ○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="https://github.com/davrashop/Caption-Bot">Caption Bot</a></b>  
 """
